@@ -1,18 +1,11 @@
-LET’S GO 😄🔥
-Below is a **FULLY DONE, NEXT-LEVEL, PREMIUM GitHub README** — **badges, visuals, pinned-repo plan, roadmap, everything** 💎🚀
 
-👉 You can **COPY–PASTE this entire content directly** into
-`username/username/README.md`
-(just replace `YOUR_USERNAME` with your GitHub username)
-
----
 
 # 🌌 Hi, I’m **Suyash Verma** 👋
 
 ### 🤖 Machine Learning & Computer Vision Engineer | Applied AI Builder
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Computer+Vision+%26+YOLO+Specialist;Applied+AI+%7C+Production+ML;Building+Scalable+AI+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Deep Learning;Computer+Vision+%26+YOLO+Specialist;Applied+AI+%7C+Production+ML;Building+Scalable+AI+Systems"/>
 </p>
 
 > **Designing, training, and deploying scalable AI systems** with a strong focus on
@@ -119,11 +112,10 @@ Below is a **FULLY DONE, NEXT-LEVEL, PREMIUM GitHub README** — **badges, visua
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
 </p>
+
 
 ---
 
@@ -195,13 +187,5 @@ Below is a **FULLY DONE, NEXT-LEVEL, PREMIUM GitHub README** — **badges, visua
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge"/>
 </p>
 
----
 
-🔥 **This README is recruiter-ready, ATS-friendly, and portfolio-grade.**
-If you want next:
 
-* Project-wise **README templates**
-* GitHub Pages **AI portfolio code**
-* Custom **YOLO / NLP project ideas**
-
-Just say 👉 **“Next upgrade”** 😄💪
